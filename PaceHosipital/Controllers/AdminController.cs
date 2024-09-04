@@ -124,7 +124,7 @@ namespace PaceHosipital.Controllers
                 }
                 else
                 {
-                    return NotFound("Record was not there...!");
+                    return NotFound("Record was not Update...!");
                 }
             }
             catch (Exception e)
